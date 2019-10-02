@@ -1,5 +1,5 @@
 ---
-title: "Hello Hugo!"
+title: "Hello Pulumify!"
 description: "Saying 'Hello' from Hugo"
 date: "2014-09-01"
 categories:
@@ -11,7 +11,7 @@ tags:
   - "blog"
 ---
 
-Hello from Hugo! If you're reading this in your browser, good job! The file `content/post/hello-hugo.md` has been
+Hello from Hugo! Pulumify is pretty rad! If you're reading this in your browser, good job! The file `content/post/hello-hugo.md` has been
 converted into a complete HTML document by Hugo. Isn't that pretty nifty?
 
 A Section
